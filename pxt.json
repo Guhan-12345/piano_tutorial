@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "piano.md"
+        "piano.md",
+        "images/test1.png"
     ],
     "testFiles": [
         "test.ts"
